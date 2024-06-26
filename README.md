@@ -1,5 +1,5 @@
 # ATI_NetFT_MatlabInterface
-Basic code to sample the the ATI Net-FT sensors from within MATLAB
+Updated version of the LuSeKa / ATI_NetFT_MatlabInterface. A basic code to sample the the ATI Net-FT sensors from within MATLAB
 
 # Setup
 * TCP/IPv4 settings on your machine: static IP 192.168.1.100, submask 255:255:255:0
